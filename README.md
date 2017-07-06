@@ -1,6 +1,10 @@
 # reactjs-tweetbox
 Use this exercise to understand states, events and DOM rendering in ReactJS (ES6).
 
+Get the template from [Release 1.0](https://github.com/lirenyeo/reactjs-tweetbox/releases/tag/1.0).
+
+Get completed answers from [Release 2.0](https://github.com/lirenyeo/reactjs-tweetbox/releases/tag/2.0)
+
 ## Get Started
 Cross origin requests are not supported by local files, so you can't just open `tweetbox.html` in browser. Use [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) to host a server.
 
