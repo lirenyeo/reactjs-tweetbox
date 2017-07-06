@@ -12,3 +12,6 @@ Refer to this [demo](http://reactjs-study-group.s3-website-ap-southeast-1.amazon
 2. When user toggle on `Add Photo`, 23 word count will be deducted, and vice versa.
 3. `Tweet` button is disabled whenever there is no text input or no `Add Photo`.
 4. Upon exceeding 140 character counts, an alert overlay will appear, with overflowing text being highlighted.
+
+### Source
+http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/
